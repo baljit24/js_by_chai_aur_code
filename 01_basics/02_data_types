@@ -1,0 +1,37 @@
+"use strict"; // treat all js code as newer version
+// alert() //we are using nodejs, not browser
+console.log(3+3) // code readability should be high
+console.log("Baljit")
+
+let name ="Baljit"
+let age = 18
+let isLoginIn= false
+
+
+// number => 2 to power 53
+// bigint is used for big number
+// string => ""
+// boolean => true/false
+// null => standalone value
+// undefined => 
+// symbol => unique
+
+
+
+
+//object 
+console.log(typeof undefined)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
